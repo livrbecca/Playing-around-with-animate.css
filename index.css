@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+}
+
+a.button {
+background: darkblue;
+color: white;
+padding: 20px;
+display: inline-block;
+border-radius: 10px;
+animation-duration: 1s;
+animation-delay: 1s;
+}
+
+.gintama {
+animation-direction: alternate;
+animation-delay: 3s;
+}
+
+.firstheading {
+    --animate-duration: 3s;
+}
